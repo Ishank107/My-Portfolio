@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "http-server -p 8000 -o"
+  },
+  "devDependencies": {
+    "pdf-parse": "^2.4.5",
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "mammoth": "^1.12.0"
+  }
+}
